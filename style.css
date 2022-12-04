@@ -98,6 +98,7 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     width: 200px;
+    font-family: roboto;
 }
 
 .third {
@@ -109,12 +110,12 @@ body {
 }
 .quote {
     display: flex;
-    justify-content: center;
+    justify-content: stretch;
     font-size: 36px;
     font-style: italic;
     color: #1F2937;
     margin: 20px;
-    border-style: solid;
+    
 }
 
 .quotesrc{
